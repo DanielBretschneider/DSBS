@@ -1,0 +1,9 @@
+C:\Dev\DSBS\bin\Debug\DSBS.exe.config
+C:\Dev\DSBS\bin\Debug\DSBS.exe
+C:\Dev\DSBS\bin\Debug\DSBS.pdb
+C:\Dev\DSBS\obj\Debug\DSBS.csproj.AssemblyReference.cache
+C:\Dev\DSBS\obj\Debug\DSBS.Properties.Resources.resources
+C:\Dev\DSBS\obj\Debug\DSBS.csproj.GenerateResource.cache
+C:\Dev\DSBS\obj\Debug\DSBS.csproj.CoreCompileInputs.cache
+C:\Dev\DSBS\obj\Debug\DSBS.exe
+C:\Dev\DSBS\obj\Debug\DSBS.pdb
